@@ -32,7 +32,7 @@ def generate_text_mistral(model_id: str, body: str) -> Dict:
     Returns:
         Dict containing the model's response
     """
-    bedrock = boto3.client(service_name='bedrock-runtime')
+    bedrock = boto3.client(service_name='bedrock-runtime', region_name='us-east-1')
     return bedrock.invoke_model(body=body, modelId=model_id)
 
 def invoke_mistral(
@@ -80,7 +80,7 @@ def generate_text_titan(model_id: str, body: str) -> Dict:
     Returns:
         Dict containing the model's response
     """
-    bedrock = boto3.client(service_name='bedrock-runtime')
+    bedrock = boto3.client(service_name='bedrock-runtime', region_name='us-east-1')
     
     response = bedrock.invoke_model(
         body=body,
