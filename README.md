@@ -1,15 +1,15 @@
-# Introduction to Generative AI Course
+# Introduction to Generative AI
 ## A Comprehensive Learning Path for Generative AI with Amazon Bedrock
 
-Welcome to the Generative AI course! This repository contains educational materials designed to help you understand and work with Generative AI technologies, with a special focus on Large Language Models (LLMs) and Amazon Bedrock.
+Welcome to the Generative AI content! This repository contains educational materials designed to help you understand and work with Generative AI technologies, with a special focus on Large Language Models (LLMs) and Amazon Bedrock.
 
-## Course Overview
+## Content Overview
 
-This course is structured into 5 comprehensive lessons, each accompanied by hands-on laboratory exercises in the form of Jupyter notebooks. The notebooks contain detailed instructions, explanations, and activities to reinforce theoretical concepts with practical implementation.
+This content is structured into 5 comprehensive lessons, each accompanied by interactive laboratory exercises in the form of Jupyter notebooks. The notebooks contain detailed instructions, explanations, and activities to reinforce theoretical concepts with practical implementation.
 
 ## Repository Structure
 
-This course material is organized into two primary components:
+This material is organized into two primary components:
 
 ### 📚 Lessons
 Contains instructional materials for each module:
@@ -17,7 +17,7 @@ Contains instructional materials for each module:
 - PDF versions of presentations
 
 ### 🔬 Labs
-Hands-on Jupyter notebooks that include:
+Interactive Jupyter notebooks that include:
 - Code examples and implementations
 - Real-world use cases
 - Challenge exercises
@@ -26,7 +26,7 @@ Each lesson and its corresponding lab(s) are designed to be completed sequential
 
 Note: Make sure to review the lesson material before attempting the associated lab exercises for the best learning experience.
 
-## Course Content
+## Content
 
 | Lesson | Topic & Content | Associated Labs | Associated Video |
 |--------|----------------|-----------------|-----------------|
@@ -36,10 +36,11 @@ Note: Make sure to review the lesson material before attempting the associated l
 | [**Lesson 4:** Advanced Prompt Engineering](Lessons/Lesson-4) | • Advanced prompting strategies<br>• Optimization techniques<br>• Problem-solving approaches | [**Lab 4a:**<br>Self consistency prompting technique](Labs/Lab-4)<br><br>[**Lab 4b:**<br>Tree-of-thought prompting technique](Labs/Lab-4) | https://youtu.be/dROAuOuG9HA |
 | [**Lesson 5:** Multimodal Prompting](Lessons/Lesson-5) | • Working with multiple modalities<br>• Combining text, images, and other data types<br>• Multimodal applications | [**Lab 5:**<br>Multimodal prompting](Labs/Lab-5) | https://youtu.be/a73v5eIlc44|
 
+To view all videos access the [Generative AI content, Module 1: Fundamentals of Generative AI playlist](https://www.youtube.com/watch?v=EhKt74U4WNE&list=PL8P_Z6C4GcuUaUEwqUGv9dEpfzmWSE05A)
 
 ## Prerequisites
 
-To get the most out of this course, you should have:
+To get the most out of this content, you should have:
 - Basic understanding of Python programming
 - AWS account with appropriate permissions
 - Familiarity with Jupyter notebooks
@@ -78,11 +79,10 @@ git clone [repository-url]
 
 If you need help or have questions:
 - Open an issue in this repository
-- Contact the course instructors
 
 ## License
 
-This course material is licensed under [appropriate license]. See the [LICENSE](LICENSE) file for details.
+This material is licensed under [appropriate license]. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 If you have questions, comments, suggestions, etc. please feel free to cut tickets in this repo.
