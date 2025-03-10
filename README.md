@@ -1,4 +1,4 @@
-# Introduction to Generative AI
+# Foundations of Generative AI
 ## A Comprehensive Learning Path for Generative AI with Amazon Bedrock
 
 Welcome to the Generative AI content! This repository contains educational materials designed to help you understand and work with Generative AI technologies, with a special focus on Large Language Models (LLMs) and Amazon Bedrock.
