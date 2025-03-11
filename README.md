@@ -30,11 +30,11 @@ Note: Make sure to review the lesson material before attempting the associated l
 
 | Lesson | Topic & Content | Associated Labs | Associated Video |
 |--------|----------------|-----------------|-----------------|
-| [**Lesson 1:** Introduction to Generative AI](Lessons/Lesson-1) | • Overview of Generative AI<br>• Key concepts and applications<br>• Current state of the technology | [**Lab 1:**<br>Using the Bedrock console to make predictions using LLMs and other Foundation models](Labs/Lab-1) | https://youtu.be/EhKt74U4WNE |
-| [**Lesson 2:** Foundation Models and LLMs](Lessons/Lesson-2) | • Understanding foundation models<br>• Deep dive into Large Language Models<br>• Architecture and capabilities | [**Lab 2a:**<br>Accessing Bedrock models using Boto3 for inference](Labs/Lab-2)<br><br>[**Lab 2b:**<br>Use Amazon Bedrock to build a simple conversational application](Labs/Lab-2) | https://youtu.be/TUU92WK7-2Y |
+| [**Lesson 1:** Introduction to Generative AI](Lessons/Lesson-1) | • Overview of Generative AI<br>• Key concepts and applications<br>• Current state of the technology | [**Lab 1:**<br>Using the Bedrock console to make predictions using LLMs and other Foundation models](Labs/Lab-1) | https://youtu.be/-n3UAKECGAU |
+| [**Lesson 2:** Foundation Models and LLMs](Lessons/Lesson-2) | • Understanding foundation models<br>• Deep dive into Large Language Models<br>• Architecture and capabilities | [**Lab 2a:**<br>Accessing Bedrock models using Boto3 for inference](Labs/Lab-2)<br><br>[**Lab 2b:**<br>Use Amazon Bedrock to build a simple conversational application](Labs/Lab-2) | https://youtu.be/irpKrYcSHoU |
 | [**Lesson 3:** Prompt Engineering](Lessons/Lesson-3) | • Basics of prompt engineering<br>• Best practices and techniques<br>• Common patterns and approaches | [**Lab 3:**<br>Standard prompt engineering techniques](Labs/Lab-3) | https://youtu.be/MAIm6X_k1X8 |
 | [**Lesson 4:** Advanced Prompt Engineering](Lessons/Lesson-4) | • Advanced prompting strategies<br>• Optimization techniques<br>• Problem-solving approaches | [**Lab 4a:**<br>Self consistency prompting technique](Labs/Lab-4)<br><br>[**Lab 4b:**<br>Tree-of-thought prompting technique](Labs/Lab-4) | https://youtu.be/dROAuOuG9HA |
-| [**Lesson 5:** Multimodal Prompting](Lessons/Lesson-5) | • Working with multiple modalities<br>• Combining text, images, and other data types<br>• Multimodal applications | [**Lab 5:**<br>Multimodal prompting](Labs/Lab-5) | https://youtu.be/a73v5eIlc44|
+| [**Lesson 5:** Multimodal Prompting](Lessons/Lesson-5) | • Working with multiple modalities<br>• Combining text, images, and other data types<br>• Multimodal applications | [**Lab 5:**<br>Multimodal prompting](Labs/Lab-5) | https://youtu.be/ertwcQIi0ZU |
 
 To view all videos access the [Generative AI content, Module 1: Fundamentals of Generative AI playlist](https://www.youtube.com/watch?v=EhKt74U4WNE&list=PL8P_Z6C4GcuUaUEwqUGv9dEpfzmWSE05A)
 
