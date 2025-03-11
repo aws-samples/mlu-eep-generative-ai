@@ -36,7 +36,7 @@ Note: Make sure to review the lesson material before attempting the associated l
 | [**Lesson 4:** Advanced Prompt Engineering](Lessons/Lesson-4) | • Advanced prompting strategies<br>• Optimization techniques<br>• Problem-solving approaches | [**Lab 4a:**<br>Self consistency prompting technique](Labs/Lab-4)<br><br>[**Lab 4b:**<br>Tree-of-thought prompting technique](Labs/Lab-4) | https://youtu.be/dROAuOuG9HA |
 | [**Lesson 5:** Multimodal Prompting](Lessons/Lesson-5) | • Working with multiple modalities<br>• Combining text, images, and other data types<br>• Multimodal applications | [**Lab 5:**<br>Multimodal prompting](Labs/Lab-5) | https://youtu.be/ertwcQIi0ZU |
 
-To view all videos access the [Generative AI content, Module 1: Fundamentals of Generative AI playlist](https://www.youtube.com/watch?v=EhKt74U4WNE&list=PL8P_Z6C4GcuUaUEwqUGv9dEpfzmWSE05A)
+To view all videos access the [Generative AI content, Module 1: Fundamentals of Generative AI playlist](https://www.youtube.com/watch?v=EhKt74U4WNE&list=PL8P_Z6C4GcuUaUEwqUGv9dEpfzmWSE05A).
 
 ## Prerequisites
 
